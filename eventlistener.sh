@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 #go to ready state
 echo "READY"
 read -r -a header # read event header as an array
